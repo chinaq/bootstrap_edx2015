@@ -1,0 +1,6 @@
+D:\users\terryq\documents\visual studio 2013\Projects\bootstrap_edx2015\Module1_MusicStore\bin\Module1_MusicStore.dll.config
+D:\users\terryq\documents\visual studio 2013\Projects\bootstrap_edx2015\Module1_MusicStore\bin\Module1_MusicStore.dll
+D:\users\terryq\documents\visual studio 2013\Projects\bootstrap_edx2015\Module1_MusicStore\bin\Module1_MusicStore.pdb
+D:\users\terryq\documents\visual studio 2013\Projects\bootstrap_edx2015\Module1_MusicStore\obj\Debug\Module1_MusicStore.csprojResolveAssemblyReference.cache
+D:\users\terryq\documents\visual studio 2013\Projects\bootstrap_edx2015\Module1_MusicStore\obj\Debug\Module1_MusicStore.dll
+D:\users\terryq\documents\visual studio 2013\Projects\bootstrap_edx2015\Module1_MusicStore\obj\Debug\Module1_MusicStore.pdb
